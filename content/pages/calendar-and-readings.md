@@ -32,7 +32,7 @@ What is the History of Science
 
 Galison, Peter. "[Ten Problems in History and Philosophy of Science](http://dx.doi.org/10.1086/587536)." _Isis_ 99, no. 1 (2008): 111–24.
 
-Daston, Lorraine. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Science Studies and the History of Science." (PDF)](http://blog.wbkolleg.unibe.ch/wp-content/uploads/Daston_2009.pdf) _Critical Inquiry_ 35, no. 4 (2009): 798–813.
+Daston, Lorraine. ["Science Studies and the History of Science." (PDF)](http://blog.wbkolleg.unibe.ch/wp-content/uploads/Daston_2009.pdf) _Critical Inquiry_ 35, no. 4 (2009): 798–813.
 
 Dear, Peter, and Sheila Jasanoff. "[Dismantling Boundaries in Science and Technology Studies](http://dx.doi.org/10.1086/657475)." _Isis_ 101, no. 4 (2010): 759–74.
 
@@ -204,7 +204,7 @@ Big Science
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[History of Science Society 2015 Conference Program (PDF – 2.1MB)](http://hssonline.org/wp-content/uploads/2014/07/Online-Program-2015-1page.pdf)
+[History of Science Society 2015 Conference Program (PDF – 2.1MB)](http://hssonline.org/wp-content/uploads/2014/07/Online-Program-2015-1page.pdf)
 
 And
 
